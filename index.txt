@@ -65,13 +65,10 @@
             <!--isi dari about me-->
             <div class="row justify-content-center fs-5 text-center" >
                 <div class="col-md-5">
-                    <p>Halo Nama saya Annisa Ahsani Mukti bisa dipanggil Nisa, saya saat ini mahasiswa jurusan Teknik Informatika di Universitas Muslim Indonesia. S</p>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet repellat, vel voluptas dignissimos repellendus facere ab! Tempora et unde neque maiores, dolore distinctio mollitia magnam, nam, voluptate libero aperiam vel.</p>
                 </div>
                 <div class="col-md-5">
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum, quisquam. Tempora accusantium modi rem ad quo. Pariatur velit nam tenetur perspiciatis quisquam error! Cumque quas illo possimus nihil iste et.</p>
-                </div>
-                <div class="col-md-5">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit vero officia, molestias maiores vel animi provident repellendus porro similique voluptatibus ipsum quidem? Eaque maxime, aperiam voluptatum natus sed aliquam impedit?</p>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugit, ullam earum? Pariatur minus, quidem est distinctio dolores eaque assumenda totam ipsa animi porro non ullam culpa eius, quos earum eum?</p>
                 </div>
             </div>
         </div>
@@ -85,38 +82,38 @@
         <div class="container" >
             <div class="row text-center mb-3" >
                 <div class="col">
-                    <h2>My Activity During KKN</h2>
+                    <h2>My Project</h2>
                 </div>
             </div>
-            <!--isi dari project 1/day 1-->
+            <!--isi dari project 1-->
             <div class="row justify-content-center" >
                 <div class="col-md-4 mb-3">
                     <div class="card" >
                         <img class="card-img-top" src="city.jpg" alt="city.jpg">
                         <div class="card-body">
-                            <p class="card-text">Hari pertama. Seruu sekali bisa keluar kota dengan orang baru saya kenal. Hari Mulai gelap tapi kok ada yang aneh yahh, kenapa teman2 semua mendadak dingin kepada saya bahkan tidur dengan saya pun mereka enggan. Saya ga pernah diajak berbicara oleh cowok karena saya sadar saya hitam, jelek, berjerawa, berminyak, gendut.  Beauty Previllage is Real!. Kumpul Uang yokk buat suntik putih:) :(</p>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius id voluptatum, quas veniam, inventore quasi dolore illo deleniti delectus rem porro, voluptate natus eos fuga modi facere asperiores architecto necessitatibus.</p>
                         </div>
                     </div>
                 </div>
-            <!--isi dari project 2/day 2-->
+            <!--isi dari project 2-->
                 <div class="col-md-4 mb-3">
                     <div class="card" >
                         <img class="card-img-top" src="korea.jpg" alt="korea.jpg">
                         <div class="card-body">
-                            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo odio delectus nemo culpa! Aliquid ex corrupti vitae iste, pariatur autem ullam amet a, nulla harum voluptatem delectus ipsam reprehenderit odio!</p>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius id voluptatum, quas veniam, inventore quasi dolore illo deleniti delectus rem porro, voluptate natus eos fuga modi facere asperiores architecto necessitatibus.</p>
                         </div>
                     </div>
                 </div>
-            <!--isi dari project 3/day 3-->
+            <!--isi dari project 3-->
                 <div class="col-md-4 mb-3">
                     <div class="card" >
                         <img class="card-img-top" src="langit.jpg" alt="langit.jpg">
                         <div class="card-body">
-                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel libero, totam quam dolorem nesciunt exercitationem cupiditate voluptate esse quibusdam nam ullam fugit deserunt a possimus illum sapiente quos enim natus.</p>
+                            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius id voluptatum, quas veniam, inventore quasi dolore illo deleniti delectus rem porro, voluptate natus eos fuga modi facere asperiores architecto necessitatibus.</p>
                         </div>
                     </div>
                 </div>
-            <!--isi dari project 4/day 4-->
+            <!--isi dari project 4-->
                 <div class="col-md-4 mb-3">
                     <div class="card" >
                         <img class="card-img-top" src="laut.jpg" alt="laut.jpg">
